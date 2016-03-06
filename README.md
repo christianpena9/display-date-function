@@ -11,8 +11,8 @@ It's simple to use, fork or download the file display-date-function.js and link 
 - HTML
 
 ```html
-  <span class="year"></section>
-  <span class="fullDate"></section>
+  <span class="year"></span>
+  <span class="fullDate"></span>
 ```
 
 ## Creator
